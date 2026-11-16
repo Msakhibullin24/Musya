@@ -1,6 +1,0 @@
-interface:
-  display_name: "Anti-Slop"
-  short_description: "Единый процесс: фундамент, разработка и проверки"
-  default_prompt: "Используй $anti-slop: приведи фундамент проекта к требованиям и выполни мою задачу с проверкой результата."
-policy:
-  allow_implicit_invocation: true
